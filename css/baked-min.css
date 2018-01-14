@@ -1,0 +1,108 @@
+body{
+	background: #f2f2f2;
+	margin: 0px;
+	padding: 0px;
+	height: 100vh;
+	width: 100%;
+	font-family: tahoma, calibri;
+	color: #fff ;
+}
+
+nav{
+	width: 100%;
+	height: 60px;
+	background: #8e9292;
+}
+ul{
+	text-align: center;
+	word-spacing: 6px;
+	margin-top: -5px;
+}
+li{
+	display: inline-block;
+	text-decoration: none;
+	color: #fff;
+	text-align: center;
+	float: none;
+	margin: 5px;
+	font-size: 18px;
+}
+ul,li:hover{
+	font-size: 25px;
+}
+a{
+	color: grey;
+	font-size: 14px;
+}
+div{
+	margin-left: 3em;
+	margin-right: 3em;
+	background: #fff;
+	padding: 8px;
+	color: #000;
+	border-radius: 5px;
+	margin-top: 0.5em;
+}
+section{
+	margin-left: 3em;
+	margin-right: 3em;
+	background: #fff;
+	box-shadow: 1px 2px 1px 2px #c0c0c0;
+	padding: 8px;
+	color: #000;
+	border-radius: 5px;
+	margin-top: 0.5em;
+}
+form{
+	padding-left: 2em !important;
+	padding-right: 2em !important;
+	background: #fff;
+	box-shadow: 0.5px 0.5px 0.5px 0.5px #c0c0c0;
+	padding: 8px;
+	color: #000;
+	border-radius: 5px;
+	margin-top: 0.5em;
+}
+/*
+input type=["text"]{
+	padding: 10px;
+	background: red;
+}*/
+input type=["password"]{
+	
+}
+input type=["number"]{
+	
+}
+input type=["file"]{
+	
+}
+input type=["submit"]{
+	background: red;
+}
+button{
+	
+}
+
+input{
+	position:relative;
+	z-index:2;
+	-ms-flex:1 1 auto;
+	flex:1 1 auto;
+	width:100%;
+	margin-bottom:0px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid #c0c0c0;
+	margin-bottom: 0.5em;
+	box-shadow: 0.5px 0.6px 0.5px 0.6px #000;
+}
+input:hover{
+	box-shadow: 1px 0.5px 1px 0.5px black;
+}
+input:active{
+	box-shadow: 1px 0.5px 1px 0.5px black;
+}
+input:focus{
+	box-shadow: 1px 0.5px 1px 0.5px black;
+}
