@@ -83,10 +83,34 @@ input type=["submit"]{
 	background: red;
 }
 
-button{
+/* button styles */
+
+.btn1{
 	
 	border-radius:25px;
+	background-color:red;
+	color:white:
 }
+
+.btn2{
+	border-radius:25px;
+	background-color:green;
+	color:white;
+}
+
+.btn3{
+	border-radius:25px;
+	background-color:yellow;
+	color:white;
+}
+
+.btn4 {
+border-radius:;
+background-color:blue;
+color:white;
+}
+
+/* ends here */
 
 input{
 	position:relative;
