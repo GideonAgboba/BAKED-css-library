@@ -9,6 +9,52 @@ body{
 }
 
 
+h1,h2,h3,h4,h5.h6{
+	font-weight:bolder;
+	letter-spacing: 5px;
+	font-family:segoe ui , tahoma,calibri,verdana, sans-serif;
+	color: black;
+	
+}
+
+article{
+	
+}
+
+section{
+	
+}
+
+
+header.1{
+}
+
+
+header.2{
+}
+
+header.3{
+	
+}
+
+header.4{
+	
+}
+
+footer.1{
+	
+}
+
+footer.2{
+}
+
+footer.3{
+	
+}
+
+footer.4{
+	
+}
 
 nav{
 	width: 100%;
@@ -30,9 +76,11 @@ li{
 	float: none;
 	margin: 5px;
 	font-size: 18px;
+	letter-spacing:5px;
 }
 ul,li:hover{
 	font-size: 25px;
+	letter spacing 5px;
 }
 a{
 	color: grey;
