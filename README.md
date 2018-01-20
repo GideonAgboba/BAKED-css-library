@@ -15,6 +15,16 @@ An Open source css-library
 .btn-3
 .btn-4
 
+always include 
+
+<head>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=0"/>
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+        </head>
+
 
 
   
