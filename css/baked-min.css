@@ -6,6 +6,9 @@ body{
 	width: 100%;
 	font-family: tahoma, calibri,courier new ,times new roman,monospace,fantasy,arial,sans-serif,cursive;
 	color: #fff ;
+	overflow-x: hidden !important; 
+	overflow-y:; 
+	position: default;
 }
 
 
