@@ -9,15 +9,27 @@ body{
 	overflow-x: hidden !important; 
 	overflow-y:; 
 	position: default;
+	
 }
 
 
 h1,h2,h3,h4,h5.h6{
-	font-weight:bolder;
+	
 	letter-spacing: 5px;
 	font-family:segoe ui , tahoma,calibri,verdana, sans-serif;
 	color: black;
+	font-weight:normal;
+	font-size: 2.5em;
+	text-align:justify;
+	 font-stretch: expanded;
 	
+}
+
+
+
+div {
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 article{
@@ -30,21 +42,53 @@ section{
 
 
 header.1{
-}
+	font-weight:normal;
+	font-family:;
+	color:;
+	font-size: 0.5em;
+	text-align:justify;
+	 font-stretch: expanded;
+	
+	}
 
 
 header.2{
+	font-weight:bold;
+	font-family:;
+	color:;
+font-size: 0.5em;
+	text-align:justify;
+	 font-stretch: expanded;
 }
 
 header.3{
-	
-}
+	font-weight:normal;
+	font-family:;
+	color:black;
+font-size: 0.5em;
+	text-align:justify;
+	 font-stretch: expanded;
+	background-color:white;
+	}
 
 header.4{
+	font-weight:bold;
+	font-family:;
+	color:white;
+	font-size: 0.5em;
+	text-align:justify;
+	 font-stretch: expanded;
+	background-color: black;
 	
 }
 
 footer.1{
+	
+	background-color:black;
+	color:white;
+	text-align: justify;
+	font-family:;
+
 	
 }
 
