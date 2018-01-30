@@ -56,7 +56,7 @@ header.2{
 	font-weight:bold;
 	font-family:;
 	color:;
-font-size: 0.5em;
+	font-size: 0.5em;
 	text-align:justify;
 	 font-stretch: expanded;
 }
@@ -65,7 +65,7 @@ header.3{
 	font-weight:normal;
 	font-family:;
 	color:black;
-font-size: 0.5em;
+	font-size: 0.5em;
 	text-align:justify;
 	 font-stretch: expanded;
 	background-color:white;
@@ -93,6 +93,11 @@ footer.1{
 }
 
 footer.2{
+	background-color:grey;
+	color:black;
+	text-align:justify;
+	font-family:;
+	
 }
 
 footer.3{
