@@ -18,7 +18,9 @@ An Open source css-library
 always include 
 
 
-<head>
+
+
+         <head>
 
         <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=0"/>
 
